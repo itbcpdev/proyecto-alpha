@@ -1,0 +1,5 @@
+[20-Dec-2022 22:11:40 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 40002528 bytes) in /home/qnu6xzffyell/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php on line 46
+[20-Dec-2022 22:13:47 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 37136504 bytes) in /home/qnu6xzffyell/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php on line 46
+[20-Dec-2022 22:14:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 37136504 bytes) in /home/qnu6xzffyell/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php on line 46
+[20-Dec-2022 22:17:27 UTC] PHP Fatal error:  Allowed memory size of 37748736 bytes exhausted (tried to allocate 2097152 bytes) in /home/qnu6xzffyell/storage/framework/views/5b9d46b63b360faddf6627d1ac2a4b993e14fb4d.php on line 38
+[20-Dec-2022 22:18:04 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 90112 bytes) in /home/qnu6xzffyell/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 527
